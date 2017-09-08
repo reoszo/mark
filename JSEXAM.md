@@ -59,7 +59,7 @@
   完成 split 方法（数字千分位逗号标记）
     例如：split(10000000) === '10,000,000'
   编写一个验证 url 的正则 | 使用正则解析 url 的各个部分（http 或 https 协议）
-    例如：http://www.bianlifeng.com/readme.html?id=9&tag=fe#footer
+    例如：http://www.domain.com/readme.html?id=9&tag=fe#footer
 10. 实现一个你经常使用的排序算法
 11. html css
   实现内层 div 垂直水平居中（可以改变 DOM 结构）
@@ -68,7 +68,7 @@
       内容
     </div>
   </div>
-12. 从浏览器地址栏输入 https://www.bianlifeng.com/ 并回车
+12. 从浏览器地址栏输入 https://www.domain.com/ 并回车
   请尽可能多的写出从回车到浏览器显示网页内容所经历的过程（每个过程使用一句话或者一个词描述）
 13. react 组件生命周期
 ```
