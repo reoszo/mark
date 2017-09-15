@@ -22,7 +22,7 @@
   请写出下面代码的运行结果
     Promise.resolve({
       a: 1
-    }).then(funtion(res) {
+    }).then(function(res) {
       res.a.b = 2;
     }).then(function(res) {
       console.log(res);
